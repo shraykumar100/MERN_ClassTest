@@ -4,8 +4,6 @@ var desiredNumbers = [];
 if (isNaN(endPoint)) {
     console.log("Please enter a valid number!");
 } else {
-    // console.log(`The prime numbers between ${startPoint} to ${endPoint} are:`);
-
     for (var i = startPoint; i <= endPoint; i++) {
         var result = 0;
         for (var j = 2; j < i; j++) {
