@@ -16,5 +16,5 @@ if (isNaN(endPoint)) {
             desiredNumbers.push(i);
         }
     }
+    console.log(`The prime numbers between 1 to ${endPoint} are ${desiredNumbers}`);
 }
-console.log(`The prime numbers between 1 to ${endPoint} are ${desiredNumbers}`);
