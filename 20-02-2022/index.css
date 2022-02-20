@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(74, 175, 255);
+}
+.head1{
+    display:flex;
+    justify-content: space-evenly;background-color: rgb(155,255,154);
+    border: 1px solid black;
+}
+.head2{background-color: rgb(254,241,2);
+    margin: 20px 150px;
+    display:flex;
+    justify-content: space-evenly;  
+    border: 1px solid black;
+}
+.head3{
+    background-color: rgb(254,241,2);
+    margin: 20px 100px;
+    display:flex;
+    justify-content: space-evenly; 
+    border: 1px solid black;
+}
+ 
+.div{
+    padding: 10px 30px;
+    border: 1px solid black;
+}
+.heading{
+    background-color: rgb(254,241,2);
+    padding: 1px 50px;
+    display: inline-block;  
+    border: 1px solid black; 
+}
+.heading3{
+    background-color: rgb(238,238,238);
+    display: inline-block;
+    padding: 2px 5px;
+    border: 1px solid black;
+    font-size: larger;
+}
+.div_1{
+    background-color: rgb(204,205,254);
+    margin: 20px 40px;
+   text-align: center;
+    border: 1px solid black;
+    padding: 10px 30px;
+}
+.div2{
+    background-color: rgb(155,255,154); 
+}
+.div3{
+    background-color: rgb(240,239,255);   
+}
+.div4{
+    background-color: rgb(254,238,153);
+}
+.div5{
+    background-color: rgb(238,204,255);
+    margin-top: 10px;
+}
+.div6{
+    background-color: rgb(187,238,255);
+    margin-top: 10px;
+}
+.div7{
+background-color: rgb(254,241,2);
+padding: 0px;
+}
+.div8{
+    background-color:rgb(238,255,237) ;
+    margin-top: 10px;
+    padding: 0px;
+}
