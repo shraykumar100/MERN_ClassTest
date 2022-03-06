@@ -12,3 +12,5 @@ Question 2 --> https://shraykumar100.github.io/MERN_ClassTest/30-01-2022/Questio
 20-02-2022 --> https://shraykumar100.github.io/MERN_ClassTest/20-02-2022/
 
 27-02-2022 --> https://shraykumar100.github.io/MERN_ClassTest/27-02-2022/
+
+06-03-2022 --> https://shraykumar100.github.io/MERN_ClassTest/06-03-2022/
