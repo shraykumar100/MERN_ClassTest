@@ -8,18 +8,19 @@ body{
 }
 .head-left{
     float: left;
-    margin-left: 20px;
+    margin-top: 0.5vh;
+    margin-left: 2vw;
 }
 .head-right{
     float: right;
-    margin-right: 20px;
+    margin-top: 1vh;
+    margin-right: 2vw;
 }
 .nav-icon{
 width: 20px;
-padding: 10px;
+padding: 5px;
 }
 .nav{
-    background-color: white;
     position: sticky;
     top: 0px;
 }
